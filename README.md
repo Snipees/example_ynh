@@ -8,6 +8,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Snipees/example_ynh.svg?style=flat)](https://github.com/Snipees/example_ynh/issues)
 
 > **Others badges:** `delete me`  
+> Some others useful examples of badges to use
 > [![Status](https://img.shields.io/badge/status-ready-brightgreen.svg?style=flat)](https://github.com/Snipees/example_ynh/milestones)
 > [![Status](https://img.shields.io/badge/status-not_working-red.svg?style=flat)](https://github.com/Snipees/example_ynh/milestones)  
 > [![Dependencies](https://img.shields.io/badge/dependencies-up--to--date-yellowgreen.svg?style=flat)](https://github.com/Snipees/example_ynh#dependencies)
@@ -32,20 +33,19 @@ Replace this to explain in few words how your script works.
 - Yunohost : 	https://yunohost.org
 
 
-> DELETE THIS AND THE FOLLOWING WHEN FINISHED
-
-### How to use this package `delete me`
-- Add application source files into `sources` subfolder.
-- Edit `conf/nginx.conf` file to match application prerequisites.
-- Edit manifest with application specific information.
-- Edit the install, upgrade, remove, backup, restore scripts.
-- Add a LICENSE file for the package.
-
-**More information on the documentation page:**    
-https://yunohost.org/packaging_apps
-
-https://help.github.com/articles/markdown-basics/  
-https://guides.github.com/features/mastering-markdown/  
-http://www.emoji-cheat-sheet.com/  
-http://shields.io/  
-https://rawgit.com/  
+> **How to use this package:** `delete me`
+> - Add application source files into `sources` subfolder.
+> - Edit `conf/nginx.conf` file to match application prerequisites.
+> - Edit manifest with application specific information.
+> - Edit the install, upgrade, remove, backup, restore scripts.
+> - Add a LICENSE file for the package.
+> 
+>***More information on the documentation page:*** 
+> https://yunohost.org/packaging_apps
+>
+> - https://help.github.com/articles/markdown-basics/  
+> - https://guides.github.com/features/mastering-markdown/  
+> - http://www.emoji-cheat-sheet.com/  
+> - http://shields.io/  
+> - https://rawgit.com/  
+> DELETE THIS BLOCK QUOTE WHEN FINISHED
