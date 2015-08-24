@@ -7,13 +7,13 @@
 [![Yunohost version](https://img.shields.io/badge/yunohost-2.2.0_tested-orange.svg?style=flat)](https://github.com/YunoHost/yunohost)
 [![GitHub issues](https://img.shields.io/github/issues/Snipees/example_ynh.svg?style=flat)](https://github.com/Snipees/example_ynh/issues)
 
-> **Others badges:** `delete me`
+> **Others badges:** `delete me`  
 > [![Status](https://img.shields.io/badge/status-ready-brightgreen.svg?style=flat)](https://github.com/Snipees/example_ynh/milestones)
-> [![Status](https://img.shields.io/badge/status-not_working-red.svg?style=flat)](https://github.com/Snipees/example_ynh/milestones)
+> [![Status](https://img.shields.io/badge/status-not_working-red.svg?style=flat)](https://github.com/Snipees/example_ynh/milestones)  
 > [![Dependencies](https://img.shields.io/badge/dependencies-up--to--date-yellowgreen.svg?style=flat)](https://github.com/Snipees/example_ynh#dependencies)
-> [![Dependencies](https://img.shields.io/badge/dependencies-not_include-red.svg?style=flat)](https://github.com/Snipees/example_ynh#dependencies)
+> [![Dependencies](https://img.shields.io/badge/dependencies-not_include-red.svg?style=flat)](https://github.com/Snipees/example_ynh#dependencies)  
 > [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/Snipees/example_ynh/master/LICENSE)
-> [![Yunohost version](https://img.shields.io/badge/yunohost-2.1.1_tested-orange.svg?style=flat)](https://github.com/YunoHost/yunohost)
+> [![Yunohost version](https://img.shields.io/badge/yunohost-2.1.1_tested-orange.svg?style=flat)](https://github.com/YunoHost/yunohost)  
 > DELETE THIS BLOCK QUOTE WHEN FINISHED
 
 	
@@ -44,8 +44,8 @@ Replace this to explain in few words how your script works.
 **More information on the documentation page:**    
 https://yunohost.org/packaging_apps
 
-https://help.github.com/articles/markdown-basics/
-https://guides.github.com/features/mastering-markdown/
-http://www.emoji-cheat-sheet.com/
-http://shields.io/
-https://rawgit.com/
+https://help.github.com/articles/markdown-basics/  
+https://guides.github.com/features/mastering-markdown/  
+http://www.emoji-cheat-sheet.com/  
+http://shields.io/  
+https://rawgit.com/  
